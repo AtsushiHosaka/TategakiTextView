@@ -13,6 +13,8 @@
 		6D01354F2C3EAFC300A5E001 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 6D01354E2C3EAFC300A5E001 /* Base */; };
 		6D0135512C3EAFC500A5E001 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D0135502C3EAFC500A5E001 /* Assets.xcassets */; };
 		6D0135542C3EAFC500A5E001 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 6D0135532C3EAFC500A5E001 /* Base */; };
+		6D01355C2C3EAFD700A5E001 /* VerticalTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D01355B2C3EAFD700A5E001 /* VerticalTextView.swift */; };
+		6D01355E2C3EB00100A5E001 /* UIVerticalTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D01355D2C3EB00100A5E001 /* UIVerticalTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		6D0135502C3EAFC500A5E001 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D0135532C3EAFC500A5E001 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D0135552C3EAFC500A5E001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D01355B2C3EAFD700A5E001 /* VerticalTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalTextView.swift; sourceTree = "<group>"; };
+		6D01355D2C3EB00100A5E001 /* UIVerticalTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIVerticalTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				6D0135492C3EAFC300A5E001 /* SceneDelegate.swift */,
 				6D01354B2C3EAFC300A5E001 /* ViewController.swift */,
 				6D01354D2C3EAFC300A5E001 /* Main.storyboard */,
+				6D01355B2C3EAFD700A5E001 /* VerticalTextView.swift */,
+				6D01355D2C3EB00100A5E001 /* UIVerticalTextView.swift */,
 				6D0135502C3EAFC500A5E001 /* Assets.xcassets */,
 				6D0135522C3EAFC500A5E001 /* LaunchScreen.storyboard */,
 				6D0135552C3EAFC500A5E001 /* Info.plist */,
@@ -141,6 +147,8 @@
 				6D01354C2C3EAFC300A5E001 /* ViewController.swift in Sources */,
 				6D0135482C3EAFC300A5E001 /* AppDelegate.swift in Sources */,
 				6D01354A2C3EAFC300A5E001 /* SceneDelegate.swift in Sources */,
+				6D01355C2C3EAFD700A5E001 /* VerticalTextView.swift in Sources */,
+				6D01355E2C3EB00100A5E001 /* UIVerticalTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
